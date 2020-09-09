@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+! [cute images] (images2.png)
 Use the left arrow to go back!
